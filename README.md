@@ -18,7 +18,7 @@ This project is a **web application** that predicts the **land price per square 
 
 ## 🚀 Demo
 
-![Land Price Prediction Screenshot](./screenshot.png)
+
 
 Try it locally:  
 Open in your browser: [http://127.0.0.1:5000](http://127.0.0.1:5000)
